@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Holacaracola
+=======
+helloshell
+>>>>>>> rama2
